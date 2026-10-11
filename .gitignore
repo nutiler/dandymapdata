@@ -1,0 +1,7 @@
+Tiles/
+Ocean.tga
+releases/
+*.zip
+__pycache__/
+*.pyc
+*build-report.json

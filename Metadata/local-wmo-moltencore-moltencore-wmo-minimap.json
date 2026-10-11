@@ -1,0 +1,37 @@
+{
+	"map_id": 409,
+	"map_name": "Molten Core",
+	"wmo_id": 2714,
+	"ppu": 2,
+	"image": {
+		"width": 1849,
+		"height": 2018
+	},
+	"corners": {
+		"top_left": {
+			"world_x": 1333.05517578125,
+			"world_y": -1280.1649780273438
+		},
+		"bottom_right": {
+			"world_x": 408.703369140625,
+			"world_y": -271.3323059082031
+		}
+	},
+	"model_z": {
+		"min": -233.52223205566406,
+		"max": 72.92719268798828
+	},
+	"modf": {
+		"position": [
+			0,
+			0,
+			0
+		],
+		"rotation": [
+			0,
+			0,
+			0
+		],
+		"scale": 1024
+	}
+}

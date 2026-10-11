@@ -1,0 +1,37 @@
+{
+	"map_id": 349,
+	"map_name": "Maraudon",
+	"wmo_id": 3233,
+	"ppu": 2,
+	"image": {
+		"width": 2816,
+		"height": 2354
+	},
+	"corners": {
+		"top_left": {
+			"world_x": 1168.8707275390625,
+			"world_y": -883.3760375976562
+		},
+		"bottom_right": {
+			"world_x": -239.06208610534668,
+			"world_y": 293.3597717285156
+		}
+	},
+	"model_z": {
+		"min": -208.95574951171875,
+		"max": 106.783203125
+	},
+	"modf": {
+		"position": [
+			0,
+			0,
+			0
+		],
+		"rotation": [
+			0,
+			0,
+			0
+		],
+		"scale": 1024
+	}
+}

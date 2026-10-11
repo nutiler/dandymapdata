@@ -1,0 +1,37 @@
+{
+	"map_id": 229,
+	"map_name": "Blackrock Spire",
+	"wmo_id": 21069,
+	"ppu": 2,
+	"image": {
+		"width": 1285,
+		"height": 1637
+	},
+	"corners": {
+		"top_left": {
+			"world_x": 334.3977966308594,
+			"world_y": -692.322509765625
+		},
+		"bottom_right": {
+			"world_x": -308.0621643066406,
+			"world_y": 125.9205093383789
+		}
+	},
+	"model_z": {
+		"min": -96.79513549804688,
+		"max": 263.0889587402344
+	},
+	"modf": {
+		"position": [
+			0,
+			0,
+			0
+		],
+		"rotation": [
+			0,
+			0,
+			0
+		],
+		"scale": 1024
+	}
+}

@@ -1,0 +1,37 @@
+{
+	"map_id": 90,
+	"map_name": "Gnomeregan",
+	"wmo_id": 1249,
+	"ppu": 2,
+	"image": {
+		"width": 1648,
+		"height": 1864
+	},
+	"corners": {
+		"top_left": {
+			"world_x": -200.88833618164062,
+			"world_y": -175.69004440307617
+		},
+		"bottom_right": {
+			"world_x": -1024.6600952148438,
+			"world_y": 756.160888671875
+		}
+	},
+	"model_z": {
+		"min": -331.8306884765625,
+		"max": -90.81401824951172
+	},
+	"modf": {
+		"position": [
+			0,
+			0,
+			0
+		],
+		"rotation": [
+			0,
+			0,
+			0
+		],
+		"scale": 1024
+	}
+}

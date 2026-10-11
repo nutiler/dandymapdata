@@ -1,0 +1,37 @@
+{
+	"map_id": 449,
+	"map_name": "Alliance PVP Barracks",
+	"wmo_id": 3773,
+	"ppu": 2,
+	"image": {
+		"width": 454,
+		"height": 420
+	},
+	"corners": {
+		"top_left": {
+			"world_x": 83.08028411865234,
+			"world_y": -171.3896141052246
+		},
+		"bottom_right": {
+			"world_x": -143.66564273834229,
+			"world_y": 38.3466796875
+		}
+	},
+	"model_z": {
+		"min": -16.26142120361328,
+		"max": 32.77109909057617
+	},
+	"modf": {
+		"position": [
+			0,
+			0,
+			0
+		],
+		"rotation": [
+			0,
+			0,
+			0
+		],
+		"scale": 1024
+	}
+}

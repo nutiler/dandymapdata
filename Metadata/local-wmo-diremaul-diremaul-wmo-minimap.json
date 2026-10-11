@@ -1,0 +1,37 @@
+{
+	"map_id": 429,
+	"map_name": "Dire Maul",
+	"wmo_id": 3634,
+	"ppu": 2,
+	"image": {
+		"width": 2660,
+		"height": 3954
+	},
+	"corners": {
+		"top_left": {
+			"world_x": 927.7579345703125,
+			"world_y": -993.4774169921875
+		},
+		"bottom_right": {
+			"world_x": -401.86083984375,
+			"world_y": 983.4469604492188
+		}
+	},
+	"model_z": {
+		"min": -119.9896011352539,
+		"max": 234.61294555664062
+	},
+	"modf": {
+		"position": [
+			0,
+			0,
+			0
+		],
+		"rotation": [
+			0,
+			0,
+			0
+		],
+		"scale": 1024
+	}
+}

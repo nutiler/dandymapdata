@@ -1,0 +1,37 @@
+{
+	"map_id": 70,
+	"map_name": "Uldaman",
+	"wmo_id": 1219,
+	"ppu": 2,
+	"image": {
+		"width": 1257,
+		"height": 1234
+	},
+	"corners": {
+		"top_left": {
+			"world_x": 184.30628967285156,
+			"world_y": -150.64147567749023
+		},
+		"bottom_right": {
+			"world_x": -443.87109375,
+			"world_y": 466.3337097167969
+		}
+	},
+	"model_z": {
+		"min": -56.35408020019531,
+		"max": 2.1637182235717773
+	},
+	"modf": {
+		"position": [
+			0,
+			0,
+			0
+		],
+		"rotation": [
+			0,
+			0,
+			0
+		],
+		"scale": 1024
+	}
+}

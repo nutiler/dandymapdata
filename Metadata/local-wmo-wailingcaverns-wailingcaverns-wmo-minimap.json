@@ -1,0 +1,37 @@
+{
+	"map_id": 43,
+	"map_name": "Wailing Caverns",
+	"wmo_id": 21066,
+	"ppu": 2,
+	"image": {
+		"width": 1194,
+		"height": 2062
+	},
+	"corners": {
+		"top_left": {
+			"world_x": 187.50392150878906,
+			"world_y": -492.3848571777344
+		},
+		"bottom_right": {
+			"world_x": -409.33413314819336,
+			"world_y": 538.3789672851562
+		}
+	},
+	"model_z": {
+		"min": -119.18830108642578,
+		"max": 56.49671173095703
+	},
+	"modf": {
+		"position": [
+			0,
+			0,
+			0
+		],
+		"rotation": [
+			0,
+			0,
+			0
+		],
+		"scale": 1024
+	}
+}

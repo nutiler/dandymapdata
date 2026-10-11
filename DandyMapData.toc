@@ -1,0 +1,10 @@
+## Interface: 16001
+## Title: DandyMap - Local Textures
+## Notes: Optional terrain texture pack for DandyMap. Includes enhanced water and exported interior maps. Built for WoW Forever beta 1.60.1. Requires DandyMap to display maps; DandyMap also works without this pack. Support: discord.gg/pugs
+## IconTexture: Interface\Icons\INV_Misc_Flower_02
+## Author: Dandelion-Pugs
+## X-Website: https://discord.gg/pugs
+## Version: 1.2
+
+Data.lua
+WMOExports.lua

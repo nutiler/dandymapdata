@@ -1,0 +1,37 @@
+{
+	"map_id": 369,
+	"map_name": "Deeprun Tram",
+	"wmo_id": 21075,
+	"ppu": 2,
+	"image": {
+		"width": 1035,
+		"height": 5347
+	},
+	"corners": {
+		"top_left": {
+			"world_x": 195.25437927246094,
+			"world_y": -107.29520606994629
+		},
+		"bottom_right": {
+			"world_x": -322.11693572998047,
+			"world_y": 2565.708740234375
+		}
+	},
+	"model_z": {
+		"min": -135.69566345214844,
+		"max": 34.41646957397461
+	},
+	"modf": {
+		"position": [
+			0,
+			0,
+			0
+		],
+		"rotation": [
+			0,
+			0,
+			0
+		],
+		"scale": 1024
+	}
+}

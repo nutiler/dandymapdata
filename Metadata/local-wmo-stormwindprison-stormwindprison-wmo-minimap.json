@@ -1,0 +1,37 @@
+{
+	"map_id": 35,
+	"map_name": "<unused>StormwindPrison",
+	"wmo_id": 724,
+	"ppu": 2,
+	"image": {
+		"width": 626,
+		"height": 576
+	},
+	"corners": {
+		"top_left": {
+			"world_x": 77.28123474121094,
+			"world_y": -92.01924514770508
+		},
+		"bottom_right": {
+			"world_x": -235.61615753173828,
+			"world_y": 195.5174102783203
+		}
+	},
+	"model_z": {
+		"min": -40.87342071533203,
+		"max": 13.272289276123047
+	},
+	"modf": {
+		"position": [
+			0,
+			0,
+			0
+		],
+		"rotation": [
+			0,
+			0,
+			0
+		],
+		"scale": 1024
+	}
+}

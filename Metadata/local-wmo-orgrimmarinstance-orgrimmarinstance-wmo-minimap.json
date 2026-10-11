@@ -1,0 +1,37 @@
+{
+	"map_id": 389,
+	"map_name": "Ragefire Chasm",
+	"wmo_id": 3433,
+	"ppu": 2,
+	"image": {
+		"width": 1089,
+		"height": 965
+	},
+	"corners": {
+		"top_left": {
+			"world_x": 102.9556655883789,
+			"world_y": -206.83008575439453
+		},
+		"bottom_right": {
+			"world_x": -441.2587585449219,
+			"world_y": 275.3790588378906
+		}
+	},
+	"model_z": {
+		"min": -66.19143676757812,
+		"max": 59.433555603027344
+	},
+	"modf": {
+		"position": [
+			0,
+			0,
+			0
+		],
+		"rotation": [
+			0,
+			0,
+			0
+		],
+		"scale": 1024
+	}
+}

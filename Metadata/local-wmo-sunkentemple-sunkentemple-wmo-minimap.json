@@ -1,0 +1,37 @@
+{
+	"map_id": 109,
+	"map_name": "Sunken Temple",
+	"wmo_id": 16451,
+	"ppu": 2,
+	"image": {
+		"width": 1018,
+		"height": 980
+	},
+	"corners": {
+		"top_left": {
+			"world_x": -245.16615295410156,
+			"world_y": -165.6102638244629
+		},
+		"bottom_right": {
+			"world_x": -753.8798828125,
+			"world_y": 324.09619140625
+		}
+	},
+	"model_z": {
+		"min": -189.75750732421875,
+		"max": -10.897955894470215
+	},
+	"modf": {
+		"position": [
+			0,
+			0,
+			0
+		],
+		"rotation": [
+			0,
+			0,
+			0
+		],
+		"scale": 1024
+	}
+}

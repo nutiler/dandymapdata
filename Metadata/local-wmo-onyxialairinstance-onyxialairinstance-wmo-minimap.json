@@ -1,0 +1,37 @@
+{
+	"map_id": 249,
+	"map_name": "Onyxia's Lair",
+	"wmo_id": 2333,
+	"ppu": 2,
+	"image": {
+		"width": 636,
+		"height": 772
+	},
+	"corners": {
+		"top_left": {
+			"world_x": 63.24594497680664,
+			"world_y": -398.3499755859375
+		},
+		"bottom_right": {
+			"world_x": -254.60272979736328,
+			"world_y": -12.714693069458008
+		}
+	},
+	"model_z": {
+		"min": -96.47516632080078,
+		"max": 39.60578918457031
+	},
+	"modf": {
+		"position": [
+			0,
+			0,
+			0
+		],
+		"rotation": [
+			0,
+			0,
+			0
+		],
+		"scale": 1024
+	}
+}

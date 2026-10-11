@@ -1,0 +1,37 @@
+{
+	"map_id": 48,
+	"map_name": "Blackfathom Deeps",
+	"wmo_id": 1204,
+	"ppu": 2,
+	"image": {
+		"width": 1661,
+		"height": 2005
+	},
+	"corners": {
+		"top_left": {
+			"world_x": -76.81781768798828,
+			"world_y": -578.4058227539062
+		},
+		"bottom_right": {
+			"world_x": -907.1136474609375,
+			"world_y": 424.0242614746094
+		}
+	},
+	"model_z": {
+		"min": -80.52529907226562,
+		"max": 65.2493667602539
+	},
+	"modf": {
+		"position": [
+			0,
+			0,
+			0
+		],
+		"rotation": [
+			0,
+			0,
+			0
+		],
+		"scale": 1024
+	}
+}
