@@ -1,4 +1,4 @@
-# DandyMap — Enhanced Textures
+# DandyMap - Enhanced Textures
 
 Optional terrain and dungeon artwork for **DandyMap**, built for WoW Forever beta 1.60.1 (Interface 16001).
 
